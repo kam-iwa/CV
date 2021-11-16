@@ -56,4 +56,5 @@ Rok urodzenia: `1949`
 ## Podsumowanie zawodowe
 > Wieloletni pracownik służby zdrowia specjalizujący się w chirurgii. Dzięki swym wielkim umiejętnościom uratował życie setkom pacjentów potrzebującym pomocy medycznej. Dobrze przystosowujący się do zmian, chce spróbować rozwinąć swą karierę zawodową w spokojniejszej, mniej wymagającej branży. Swe niewielkie doświadczenie w dziedzinie programowania nadrabia doświadczeniem w zarządzaniu i umiejętnością szybkiego zdobywania niezbędnej wiedzy. 
 
-
+## Moje hobby
+> Moim hobby jest denerwowanie pacjentów szpitala w którym pracuję. Uwielbiam na nich nakrzyczeć, gdy pytają się mnie o coś. To sprawia, że czuję się lepiej jako lekarz i jako człowiek.
