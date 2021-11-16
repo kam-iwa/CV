@@ -1,0 +1,2 @@
+- CV
+- list motywacyjny
